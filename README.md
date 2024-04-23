@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="158" src="https://media.licdn.com/dms/image/D4D03AQG3RIXHQlMppg/profile-displayphoto-shrink_400_400/0/1713556279181?e=1719446400&v=beta&t=WMRb-Qolvu4EJadYYJg9mP5zpwK4-em3hzvJrbE6gR0"  />
+<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQG3RIXHQlMppg/profile-displayphoto-shrink_400_400/0/1713556279181?e=1719446400&v=beta&t=WMRb-Qolvu4EJadYYJg9mP5zpwK4-em3hzvJrbE6gR0"  />
 
 ###
 
